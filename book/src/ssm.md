@@ -7,6 +7,7 @@ The SSM needs to work entirely without stress or tone, allow for reasonably flex
 * V is aeiouy
 * H is ',
 * N is mnqx
+
 There may be an arbitrary number of HV parts.
 # Root words
 Root words start with one of a selection of permitted *initial clusters*. Because these must be pronounced in isolation, they must be reasonably easy to say without the need to insert a helper vowel on the start.
