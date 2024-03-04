@@ -23,9 +23,11 @@ Predicate words can be monosyllabic. In that case, they can only consist of an A
 
 Any sequence of B and BN between C and A is a sequence of particles, as the A marks the start of a new predicate word and any multisyllabic predicate words must end in C. With full context, it's always possible to know where every predicate word starts and ends, but in the middle of a predicate word, a C syllable isn't necessarily the end of the word. This scheme allows for a reasonable level of flexibility in adapting words from other languages while retaining the advantage of not needing stress or tone.
 
-To put it simply: Any sequence of only B and BN between C and A or A and A are particles.
+To put it simply: Any sequence of only B and BN between C and A or A and A are particles. Otherwise, predicates extend from A to the last C followed by only B or BNs before another A or the end of text.
 
 As an example, `ABNBABNBCBCBNBCBBBABABCBNA` is split like so:
 1. ABNBABNBCBCBNBCBBB is followed by an A. This means that the last three B break off and are separate words. The rest is a single word. `ABNBABNBCBCBNBC B B B`
 2. ABABCBN starts with monosyllabic predicate word followed by a particle. The lack of a C syllable after the first B before the next A means it doesn't "attach" and become part of a multisyllabic predicate. ABC is the next predicate word. It is followed by a particle that must not be part of the word because it's not followed by a C before the next A, which starts the last word.
 3. The final breakdown is therefore `ABNBABNBCBCBNBC B B B A B ABC BN A`.
+
+In almost all situations, spaces will be written anyway sparing the reader of the effort of applying these rules. However, a self-segregating morphology is a requirement of all logical languages so that they can be spoken and parsed by a computer without ambiguity.
