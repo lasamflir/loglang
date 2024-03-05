@@ -6,7 +6,7 @@ I didn't end up learning it. I had no idea there was any community of speakers a
 
 When I did learn Lojban, I found that it was not nearly as simple as I expected. While some cmavo groups form patterns like FA, there are other cmavo groups that are totally unpredictable in form. Additionally, Lojban is actually filled with irregularities such as rafsi, which are similar in difficulty to learn as grammatical gender. They're an annoying extra bit of "metadata" you have to learn to associate with most words you learn.
 
-Lojban's grammar is very complex. It has over 500 particles and dozens of particle groups. These groups all vary in their grammar significantly with confusing and unintuitive interacions between them.
+Lojban's grammar is very complex. It has over 500 particles and dozens of particle groups. These groups all vary in their grammar significantly with confusing and unintuitive interactions between them.
 
 I see plenty of missed opportunities in Lojban for regularity and optimisation. That makes sense because it was only the second ever logical language. But Lojban does get one significant thing right: it can be parsed without any knowledge of what root words mean. In a sense, anyway. Without knowing root words, the parser cannot catch things like `mi sipna do` that are unambiguously mistakes. It also can't tell you if your logic is correct, which is a major weakness in a logical language.
 

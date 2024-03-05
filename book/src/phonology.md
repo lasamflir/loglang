@@ -18,3 +18,7 @@ Exceptions to IPA orthography given after the hyphen
 | Close | i     |         | u    |
 | Mid   | e     | ə - y   | o    |
 | Open  |       | a       |      |
+
+# Permitted consonant clusters
+
+working on it!
