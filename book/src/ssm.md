@@ -2,7 +2,7 @@
 The SSM works entirely without stress or tone to allow for reasonably flexible root words and allow for marking of scope on particles and predicate class on roots.
 # Allowed syllable group structure
 Syllable group structure is given by:
-`((C)C)C(V)V(HV)...(N)`
+`(C)C(V)V(HV)...(N)`
 * C is bcdfghjklprstvwz
 * V is aeiouy
 * H is ',
@@ -14,10 +14,11 @@ There are 4 types of syllable group.
 
 | Name | Form                       | Meaning                                                                                                                                                                                                                           |
 | ---- | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A    | Permitted starting (C)CC-  | Start of a predicate word. Since only a subset of consonant clusters are permitted in A syllable group s, A syllable group clusters are always easy to pronounce independently, or following a final nasal from a previous word.              |
+| A    | Permitted starting CC-  | Start of a predicate word. Since only a subset of consonant clusters are permitted in A syllable group s, A syllable group clusters are always easy to pronounce independently, or following a final nasal from a previous word.              |
 | B    | CV(V)- with no final nasal | Particle or middle of a predicate word.                                                                                                                                                                                           |
 | BN   | CV(V)- with final nasal    | Particle or middle of a predicate word.                                                                                                                                                                                           |
 | C    | Non-starting CC-           | Optional middle or end of a predicate word. Monosyllabic predicate words do not need a C syllable group but C syllable groups are obligatory at the end of multisyllabic predicate words. Consonant triples are not permitted in C syllables. |
+
 # Allowed word structure
 Predicate words can be monosyllabic. In that case, they can only consist of an A syllable group. Otherwise, they must end in a C syllable group. Between the A and final C syllable group, there may be any number of B, BN and C syllable groups. BN groups cannot be followed by C groups.
 
