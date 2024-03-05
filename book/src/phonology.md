@@ -21,7 +21,7 @@ Exceptions to IPA orthography given after the hyphen
 
 # Permitted starting clusters
 
-There are three "blocks" of A group clusters (See [SSM](ssm.md) for more info). One block is any unvoiced fricative followed by a stop. Another group is any voiced fricative followed by a stop. The final group is any sound but the voiced fricatives and approximants followed by an approximant with exceptions *tl* and *dl*, as summarised in these tables.
+There are three "blocks" of A group clusters (See [SSM](ssm.md) for more info). One block is any unvoiced fricative followed by a stop. Another group is any voiced fricative followed by a stop. The final group is any sound but the voiced fricatives and approximants followed by an approximant with exceptions *tl* and *dl*.
 
 There are 42 clusters in total organised into these tables.
 
