@@ -2,13 +2,13 @@
 The SSM works entirely without stress or tone to allow for reasonably flexible root words and allow for marking of scope on particles and predicate class on roots.
 # Allowed syllable group structure
 Syllable group structure is given by:
-`(C)C(V)V(HV)...(N)`
+`(C)C(V)V(H(V)V)...(N)`
 * C is bcdfghjklprstvwz
 * V is aeiouy
 * H is ',
 * N is mnqx
 
-There may be an arbitrary number of HV parts. Syllable groups are not syllables. A cluster may unpronounceable like "bp" if it's in the middle of a word and able to "lean on" the preceding vowel. Where syllable boundaries are is unimportant to the SSM scheme because it depends only on patterns of vowels and consonants. A word like `stolobpo` breaks into syllables `sto lob po` but is considered to have a consonant cluster `bp` for SSM purposes, even though that could never be pronounced as a cluster.
+There may be an arbitrary number of H(V)V parts. Syllable groups are not syllables. A cluster may unpronounceable like "bp" if it's in the middle of a word and able to "lean on" the preceding vowel. Where syllable boundaries are is unimportant to the SSM scheme because it depends only on patterns of vowels and consonants. A word like `stolobpo` breaks into syllables `sto lob po` but is considered to have a consonant cluster `bp` for SSM purposes, even though that could never be pronounced as a cluster.
 # Syllable group types
 There are 4 types of syllable group.
 
