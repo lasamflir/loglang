@@ -48,3 +48,31 @@ There are 42 clusters in total organised into these tables.
 # Permitted middle clusters
 
 Permitted middle clusters can be pretty much anything, but cannot start with r as this would create a word that is very difficult to pronounce with a non-rhotic accent. Middle clusters also cannot contain two of the same letter.
+
+# Vowel pairs
+There are six permissible vowel pairs. These are:
+
+* ai
+* au
+* ei
+* eu
+* oi
+* ui
+
+# Vowel sequence
+The *vowel sequence* is a pattern reused consistently in the language where families of words index a table in some way. You can think of each entry as corresponding to its number. This is really important when it comes to the language's approach to grammatical transparency. The vowel sequence is:
+
+| Number | Vowel |
+| ------ | ----- |
+| 1      | a     |
+| 2      | e     |
+| 3      | i     |
+| 4      | o     |
+| 5      | u     |
+| 6      | y     |
+| 7      | ai    |
+| 8      | au    |
+| 9      | ei    |
+| 10     | eu    |
+| 11     | oi    |
+| 12     | ui    |
