@@ -5,3 +5,8 @@
 - [Structure of words and syllables]()
     - [Phonology](./phonology.md)
     - [SSM](./ssm.md)
+- [Syntax]()
+    - [Word order](./word_order.md)
+    - [Nouns](./nouns.md)
+    - [Abstractions](./verbs.md)
+    - [Serialisation](./serialisation.md)
