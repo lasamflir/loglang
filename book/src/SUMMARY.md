@@ -3,7 +3,7 @@
 - [Credits](./credits.md)
 - [Goals](./goals.md)
 - [Structure of words and syllables]()
-    - [Phonology]()
+    - [Phonology](./phonology.md)
     - [SSM]()
     - [Example root words]()
     - [Particles]()
